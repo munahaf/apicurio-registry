@@ -715,7 +715,7 @@ public class FileDescriptorUtils {
 
     public static ProtoFileElement fileDescriptorToProtoFile(FileDescriptorProto file) {
         String packageName = file.getPackage();
-        if ("".equals(packageName)) {
+        if (packageName != null && packageName.isEmpty()) {
             packageName = null;
         }
 
