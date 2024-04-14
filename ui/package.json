@@ -57,7 +57,7 @@
     "webpack-merge": "5.8.0"
   },
   "dependencies": {
-    "@asyncapi/react-component": "^1.0.0-next.40",
+    "@asyncapi/react-component": "^1.0.0",
     "@patternfly/patternfly": "4.185.1",
     "@patternfly/react-core": "4.202.16",
     "@patternfly/react-icons": "4.53.16",
@@ -75,7 +75,7 @@
     "react-moment": "1.1.2",
     "oidc-client-ts": "^2.0.3",
     "react-router-dom": "5.2.1",
-    "redoc": "2.0.0-rc.72",
+    "redoc": "2.0.0",
     "styled-components": "^4.2.0",
     "to-arraybuffer": "^1.0.1",
     "tty-browserify": "0.0.1",
