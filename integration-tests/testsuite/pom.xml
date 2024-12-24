@@ -14,13 +14,13 @@
     <name>apicurio-registry-testsuite</name>
 
     <properties>
-        <groups></groups>
+        <groups/>
         <skipTests>true</skipTests>
         
         <junit.version>5.9.2</junit.version>
         <junit.platform-launcher.version>1.9.1</junit.platform-launcher.version>
 
-        <kafka.version>2.3.0</kafka.version>
+        <kafka.version>3.7.2</kafka.version>
         <hamcrest.version>2.2</hamcrest.version>
         <version.failsafe.plugin>3.0.0-M5</version.failsafe.plugin>
     </properties>
