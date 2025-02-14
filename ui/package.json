@@ -75,7 +75,7 @@
     "react-moment": "1.1.2",
     "oidc-client-ts": "^2.0.3",
     "react-router-dom": "5.2.1",
-    "redoc": "2.0.0-rc.72",
+    "redoc": "2.4.0",
     "styled-components": "^4.2.0",
     "to-arraybuffer": "^1.0.1",
     "tty-browserify": "0.0.1",
